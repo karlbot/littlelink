@@ -77,6 +77,22 @@ button:hover,
 /* Brand Styles
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
 
+/* TT4AC */
+.button.button-tt4ac {
+  color: #FFFFFF;
+  background-color: #24292e }
+.button.button-tt4ac:hover,
+.button.button-tt4ac:focus {
+  filter: brightness(90%) }
+
+/* Instagram Dark*/
+.button.button-instagram-dark {
+  color: #FFFFFF;
+  background-color: #24292e }
+.button.button-instagram-dark:hover,
+.button.button-instagram-dark:focus {
+  filter: brightness(90%) }
+
 /* Discord */
 .button.button-discord {
   color: #FFFFFF;
@@ -245,3 +261,10 @@ button:hover,
 .button.button-youtube:focus {
   filter: brightness(90%) }
 
+
+  footer {
+    font-size: 12px;
+    line-height: 16px;
+    font-weight: 200;
+    font-family: "Open Sans", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    color: #222; }
